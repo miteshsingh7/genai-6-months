@@ -21,3 +21,5 @@ def embedding(tokens):
 
 print(get_embedding('dog','cat'))
 # embedding note (1)
+
+# embedding note (2)
