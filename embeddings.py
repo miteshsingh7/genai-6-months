@@ -31,3 +31,5 @@ print(get_embedding('dog','cat'))
 # embedding note (5)
 
 # embedding note (6)
+
+# embedding note (7)
